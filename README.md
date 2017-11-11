@@ -1,12 +1,12 @@
 # Facility Space Allocation
 ## Introduction
 
-A Simple Python CLI that allocates persons `staff` or `fellow` to Offices and/or Living Space available at Amity facility
+A Simple Python CLI that allocates persons `staff` or `manager` to Offices and/or Living Space available at the facility
 
 ### Features
 
 * Create and allocate Offices and Living Space
-* Create and allocate Fellows and Staff members
+* Create and allocate Managers and Staff members
 * Print allocations to stdout. (optionally save to filename)
 * Print unallocated persons. (optionally save to filename)
 * Relocate a person to another room
